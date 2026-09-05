@@ -1,0 +1,301 @@
+Property_ID,Locality,Dimension,Plot_Area_sqft,Distance_to_8th_Mile_km,Distance_to_Sapthagiri_College_km,Facing,Road_Width_ft,Approval_Authority,Price_in_Lakhs_INR
+BLR_8M_1000,T Dasarahalli,50x80,4000.0,0.23,1.15,West,30.0,BBMP,247.28
+BLR_8M_1001,Bagalakunte,30x40,1200.0,1.34,3.19,South,30.0,BBMP,80.27
+BLR_8M_1002,Mallasandra,30x40,1200.0,1.16,2.95,West,20.0,BBMP,76.36
+BLR_8M_1003,T Dasarahalli,20x30,600.0,3.95,0.41,East,30.0,BBMP,39.45
+BLR_8M_1004,Chikkasandra,30x40,,3.82,0.27,East,30.0,BMRDA,66.77
+BLR_8M_1005,Chikkasandra,40x60,2400.0,0.85,3.87,West,20.0,BBMP,161.06
+BLR_8M_1006,Chikkasandra,20x30,600.0,2.17,0.46,North,60.0,BBMP,47.08
+BLR_8M_1007,Mallasandra,30x40,1200.0,2.37,3.39,West,30.0,BMRDA,64.88
+BLR_8M_1008,Bagalakunte,40x60,2400.0,3.82,0.94,South,30.0,BMRDA,123.37
+BLR_8M_1009,8th Mile Junction,30x40,1200.0,3.67,2.63,East,30.0,BBMP,81.23
+BLR_8M_1010,Mallasandra,30x40,1200.0,1.21,4.18,North,30.0,BBMP,77.48
+BLR_8M_1011,Sapthagiri College Surrounding,20x30,600.0,4.0,1.2,West,30.0,BBMP,39.71
+BLR_8M_1012,Bagalakunte,40x60,2400.0,2.19,0.59,West,60.0,BMRDA,159.45
+BLR_8M_1013,Sapthagiri College Surrounding,20x30,600.0,0.77,1.64,North,30.0,DC Conversion,29.38
+BLR_8M_1014,Chikkasandra,30x40,1200.0,0.04,2.55,East,60.0,BBMP,100.99
+BLR_8M_1015,T Dasarahalli,30x40,1200.0,1.73,4.48,East,40.0,DC Conversion,61.21
+BLR_8M_1016,8th Mile Junction,40x60,2400.0,4.19,4.47,North,30.0,BBMP,173.59
+BLR_8M_1017,Bagalakunte,20x30,600.0,0.5,3.41,West,60.0,BMRDA,37.93
+BLR_8M_1018,T Dasarahalli,30x40,1200.0,1.05,0.14,West,30.0,DC Conversion,58.78
+BLR_8M_1019,Mallasandra,40x60,2400.0,1.8,3.88,East,30.0,BDA,171.91
+BLR_8M_1020,T Dasarahalli,40x60,2400.0,3.9,4.23,North,30.0,DC Conversion,113.94
+BLR_8M_1021,T Dasarahalli,40x60,2400.0,1.3,2.94,East,40.0,BBMP,176.29
+BLR_8M_1022,8th Mile Junction,20x30,600.0,0.13,2.69,West,30.0,BBMP,41.83
+BLR_8M_1023,8th Mile Junction,20x30,600.0,3.23,0.34,East,30.0,DC Conversion,31.56
+BLR_8M_1024,Bagalakunte,30x40,1200.0,4.31,1.07,North,30.0,DC Conversion,58.52
+BLR_8M_1025,8th Mile Junction,30x40,1200.0,0.27,1.04,South,30.0,DC Conversion,50.96
+BLR_8M_1026,Chikkasandra,40x60,2400.0,3.7,0.49,North,40.0,DC Conversion,136.33
+BLR_8M_1027,T Dasarahalli,40x60,2400.0,3.53,2.32,West,40.0,DC Conversion,113.62
+BLR_8M_1028,Bagalakunte,50x80,,2.52,2.49,East,20.0,BDA,288.21
+BLR_8M_1029,Mallasandra,50x80,4000.0,4.09,4.21,West,30.0,BBMP,279.58
+BLR_8M_1030,Mallasandra,30x40,1200.0,2.67,2.32,North,30.0,BBMP,88.84
+BLR_8M_1031,Chikkasandra,50x80,,4.16,0.93,North,30.0,BMRDA,213.65
+BLR_8M_1032,8th Mile Junction,30x40,1200.0,2.93,2.49,North,40.0,BBMP,84.89
+BLR_8M_1033,Bagalakunte,30x40,1200.0,3.71,1.0,West,30.0,BDA,83.53
+BLR_8M_1034,T Dasarahalli,50x80,4000.0,1.59,4.19,East,60.0,BDA,321.9
+BLR_8M_1035,Sapthagiri College Surrounding,20x30,600.0,2.25,4.12,West,20.0,BBMP,40.5
+BLR_8M_1036,Mallasandra,30x40,1200.0,1.23,2.54,South,40.0,BBMP,75.42
+BLR_8M_1037,Sapthagiri College Surrounding,30x40,1200.0,4.29,4.5,East,30.0,BMRDA,66.32
+BLR_8M_1038,8th Mile Junction,20x30,600.0,4.02,0.52,South,40.0,BBMP,38.61
+BLR_8M_1039,Bagalakunte,40x60,2400.0,4.38,3.4,South,60.0,BMRDA,134.6
+BLR_8M_1040,8th Mile Junction,30x40,1200.0,2.31,3.59,West,30.0,DC Conversion,53.98
+BLR_8M_1041,Bagalakunte,20x30,600.0,2.95,1.48,West,40.0,BMRDA,35.73
+BLR_8M_1042,8th Mile Junction,40x60,2400.0,1.74,3.83,South,40.0,DC Conversion,122.83
+BLR_8M_1043,Chikkasandra,20x30,600.0,0.6,4.12,West,30.0,BBMP,36.48
+BLR_8M_1044,T Dasarahalli,40x60,2400.0,4.2,0.97,West,40.0,BMRDA,151.52
+BLR_8M_1045,T Dasarahalli,20x30,600.0,2.68,1.24,East,20.0,BMRDA,32.61
+BLR_8M_1046,Bagalakunte,40x60,2400.0,1.95,0.31,North,30.0,BBMP,175.39
+BLR_8M_1047,8th Mile Junction,20x30,600.0,4.07,4.4,North,20.0,BMRDA,31.92
+BLR_8M_1048,Mallasandra,20x30,600.0,0.97,1.13,North,20.0,BMRDA,35.09
+BLR_8M_1049,Mallasandra,20x30,600.0,3.61,1.66,South,30.0,DC Conversion,28.06
+BLR_8M_1050,Mallasandra,50x80,4000.0,2.77,1.53,East,30.0,BBMP,267.32
+BLR_8M_1051,Chikkasandra,20x30,600.0,4.08,0.41,North,30.0,BDA,42.58
+BLR_8M_1052,8th Mile Junction,40x60,2400.0,1.23,4.11,East,30.0,BDA,169.06
+BLR_8M_1053,Bagalakunte,30x40,1200.0,1.95,4.0,East,60.0,BBMP,88.97
+BLR_8M_1054,Sapthagiri College Surrounding,30x40,1200.0,2.69,1.71,East,20.0,BMRDA,66.0
+BLR_8M_1055,8th Mile Junction,20x30,600.0,4.14,0.85,South,30.0,BDA,41.96
+BLR_8M_1056,T Dasarahalli,20x30,600.0,2.26,2.79,East,30.0,DC Conversion,29.35
+BLR_8M_1057,8th Mile Junction,20x30,600.0,3.56,3.37,East,20.0,BDA,42.22
+BLR_8M_1058,Mallasandra,30x40,1200.0,2.82,3.35,East,30.0,DC Conversion,56.94
+BLR_8M_1059,8th Mile Junction,20x30,600.0,1.17,1.28,East,30.0,BMRDA,36.47
+BLR_8M_1060,Sapthagiri College Surrounding,40x60,2400.0,2.9,1.78,North,40.0,DC Conversion,119.3
+BLR_8M_1061,8th Mile Junction,30x40,1200.0,2.25,3.61,East,30.0,BBMP,83.27
+BLR_8M_1062,8th Mile Junction,20x30,600.0,2.99,1.39,South,30.0,BBMP,38.78
+BLR_8M_1063,Bagalakunte,30x40,1200.0,2.34,0.59,South,20.0,BDA,72.42
+BLR_8M_1064,Mallasandra,50x80,4000.0,1.04,3.17,West,40.0,DC Conversion,216.74
+BLR_8M_1065,T Dasarahalli,40x60,2400.0,3.27,4.19,West,30.0,BBMP,157.13
+BLR_8M_1066,8th Mile Junction,50x80,4000.0,3.75,0.81,East,20.0,BMRDA,205.46
+BLR_8M_1067,T Dasarahalli,30x40,1200.0,2.29,2.61,West,40.0,BBMP,86.14
+BLR_8M_1068,T Dasarahalli,40x60,2400.0,1.06,4.43,North,30.0,BBMP,158.94
+BLR_8M_1069,Sapthagiri College Surrounding,40x60,2400.0,0.84,3.43,East,40.0,BDA,206.16
+BLR_8M_1070,Chikkasandra,20x30,600.0,2.29,1.46,South,30.0,BBMP,35.74
+BLR_8M_1071,T Dasarahalli,20x30,600.0,1.7,1.69,South,30.0,BBMP,38.58
+BLR_8M_1072,Mallasandra,30x40,1200.0,3.61,4.13,North,30.0,BDA,91.39
+BLR_8M_1073,Bagalakunte,30x40,1200.0,3.28,2.1,West,30.0,BBMP,78.88
+BLR_8M_1074,8th Mile Junction,30x40,1200.0,1.11,3.05,East,20.0,DC Conversion,53.36
+BLR_8M_1075,Chikkasandra,20x30,600.0,0.52,1.54,East,,BBMP,42.73
+BLR_8M_1076,Mallasandra,20x30,600.0,0.93,0.79,West,30.0,BMRDA,33.21
+BLR_8M_1077,8th Mile Junction,30x40,1200.0,3.78,3.89,East,60.0,BBMP,94.07
+BLR_8M_1078,8th Mile Junction,30x40,1200.0,2.61,3.88,East,30.0,DC Conversion,61.58
+BLR_8M_1079,Chikkasandra,40x60,2400.0,2.6,3.72,South,30.0,DC Conversion,99.93
+BLR_8M_1080,8th Mile Junction,30x40,1200.0,0.88,2.95,East,30.0,DC Conversion,60.72
+BLR_8M_1081,8th Mile Junction,20x30,600.0,1.25,0.66,West,30.0,DC Conversion,29.52
+BLR_8M_1082,8th Mile Junction,50x80,,2.32,3.32,South,30.0,BDA,280.7
+BLR_8M_1083,Mallasandra,50x80,4000.0,2.7,0.01,East,40.0,BMRDA,243.93
+BLR_8M_1084,Chikkasandra,30x40,1200.0,3.37,2.35,South,40.0,BBMP,80.06
+BLR_8M_1085,Bagalakunte,30x40,1200.0,2.6,0.9,East,60.0,BDA,99.22
+BLR_8M_1086,T Dasarahalli,30x40,1200.0,2.28,1.45,East,40.0,BBMP,86.52
+BLR_8M_1087,Sapthagiri College Surrounding,20x30,,1.17,1.97,East,40.0,BMRDA,35.39
+BLR_8M_1088,8th Mile Junction,30x40,1200.0,3.84,1.02,West,30.0,BMRDA,63.55
+BLR_8M_1089,Bagalakunte,30x40,1200.0,1.23,2.17,East,60.0,BBMP,97.16
+BLR_8M_1090,Chikkasandra,50x80,4000.0,0.74,1.85,West,20.0,DC Conversion,184.24
+BLR_8M_1091,Chikkasandra,20x30,600.0,1.41,3.94,South,60.0,BBMP,46.22
+BLR_8M_1092,Chikkasandra,30x40,1200.0,0.32,2.22,East,20.0,BDA,90.07
+BLR_8M_1093,8th Mile Junction,30x40,1200.0,2.91,2.74,East,20.0,BMRDA,60.8
+BLR_8M_1094,Chikkasandra,40x60,2400.0,1.66,3.27,East,30.0,BMRDA,128.75
+BLR_8M_1095,Sapthagiri College Surrounding,30x40,1200.0,0.32,3.02,South,40.0,DC Conversion,61.72
+BLR_8M_1096,T Dasarahalli,30x40,1200.0,4.43,2.81,North,30.0,DC Conversion,62.98
+BLR_8M_1097,8th Mile Junction,40x60,2400.0,1.26,1.0,West,30.0,BMRDA,141.86
+BLR_8M_1098,8th Mile Junction,20x30,600.0,3.62,4.48,North,30.0,BBMP,41.78
+BLR_8M_1099,T Dasarahalli,20x30,600.0,0.68,1.63,North,30.0,BBMP,39.17
+BLR_8M_1100,Sapthagiri College Surrounding,20x30,600.0,1.63,3.21,West,40.0,BBMP,42.18
+BLR_8M_1101,Chikkasandra,50x80,4000.0,3.61,1.18,East,30.0,BBMP,260.23
+BLR_8M_1102,Bagalakunte,40x60,2400.0,1.2,3.79,West,,DC Conversion,110.08
+BLR_8M_1103,8th Mile Junction,30x40,1200.0,2.41,2.09,East,20.0,BBMP,73.23
+BLR_8M_1104,T Dasarahalli,20x30,600.0,1.66,3.77,North,30.0,BDA,44.75
+BLR_8M_1105,T Dasarahalli,40x60,2400.0,3.15,3.45,South,40.0,DC Conversion,109.53
+BLR_8M_1106,8th Mile Junction,30x40,1200.0,0.65,3.42,East,60.0,BBMP,89.49
+BLR_8M_1107,Sapthagiri College Surrounding,20x30,600.0,1.66,2.06,East,20.0,BBMP,37.96
+BLR_8M_1108,T Dasarahalli,20x30,600.0,1.02,3.9,East,60.0,DC Conversion,33.39
+BLR_8M_1109,8th Mile Junction,30x40,1200.0,1.32,0.79,South,30.0,BMRDA,61.32
+BLR_8M_1110,Chikkasandra,20x30,600.0,1.28,0.13,South,40.0,BBMP,43.11
+BLR_8M_1111,Chikkasandra,30x40,1200.0,4.19,2.11,West,30.0,BBMP,72.87
+BLR_8M_1112,Mallasandra,30x40,1200.0,1.21,0.89,North,40.0,BMRDA,72.31
+BLR_8M_1113,8th Mile Junction,30x40,1200.0,0.72,2.15,West,40.0,BBMP,89.24
+BLR_8M_1114,8th Mile Junction,40x60,2400.0,2.06,4.0,South,30.0,BMRDA,118.65
+BLR_8M_1115,T Dasarahalli,40x60,2400.0,0.69,1.34,West,60.0,BBMP,178.08
+BLR_8M_1116,Bagalakunte,20x30,600.0,2.02,3.64,North,40.0,BBMP,42.24
+BLR_8M_1117,Mallasandra,50x80,4000.0,2.85,0.51,West,60.0,BBMP,289.51
+BLR_8M_1118,T Dasarahalli,30x40,1200.0,1.66,3.56,East,20.0,BBMP,78.62
+BLR_8M_1119,Bagalakunte,30x40,1200.0,4.44,3.62,East,,BDA,86.19
+BLR_8M_1120,8th Mile Junction,20x30,600.0,3.0,2.57,West,40.0,BMRDA,38.0
+BLR_8M_1121,Chikkasandra,30x40,1200.0,0.43,2.63,West,30.0,BBMP,79.53
+BLR_8M_1122,Bagalakunte,30x40,1200.0,4.2,1.08,South,30.0,BBMP,70.78
+BLR_8M_1123,T Dasarahalli,20x30,600.0,0.34,1.93,West,30.0,DC Conversion,30.11
+BLR_8M_1124,Chikkasandra,40x60,2400.0,0.05,1.07,East,30.0,BBMP,175.98
+BLR_8M_1125,Mallasandra,20x30,600.0,1.71,4.45,South,,BDA,41.07
+BLR_8M_1126,8th Mile Junction,30x40,1200.0,1.03,2.17,South,20.0,BDA,83.22
+BLR_8M_1127,Mallasandra,30x40,1200.0,1.06,3.63,East,60.0,BBMP,90.74
+BLR_8M_1128,8th Mile Junction,40x60,2400.0,3.5,1.02,East,40.0,BMRDA,140.51
+BLR_8M_1129,8th Mile Junction,30x40,1200.0,0.13,3.9,East,20.0,BBMP,75.64
+BLR_8M_1130,8th Mile Junction,30x40,,3.88,0.88,West,30.0,BBMP,84.94
+BLR_8M_1131,Chikkasandra,50x80,4000.0,2.05,1.34,North,40.0,BBMP,299.0
+BLR_8M_1132,Chikkasandra,50x80,4000.0,1.08,1.53,North,20.0,BMRDA,204.64
+BLR_8M_1133,T Dasarahalli,20x30,600.0,4.22,2.93,North,30.0,BMRDA,33.8
+BLR_8M_1134,Mallasandra,20x30,600.0,4.24,1.2,North,20.0,DC Conversion,27.02
+BLR_8M_1135,Mallasandra,20x30,600.0,4.29,0.03,South,40.0,BMRDA,32.06
+BLR_8M_1136,Mallasandra,30x40,1200.0,2.04,3.17,South,,BBMP,70.18
+BLR_8M_1137,8th Mile Junction,30x40,1200.0,1.03,2.72,South,30.0,BBMP,78.1
+BLR_8M_1138,Bagalakunte,50x80,4000.0,4.43,1.66,East,30.0,BMRDA,233.36
+BLR_8M_1139,Chikkasandra,50x80,4000.0,2.2,3.12,East,40.0,BDA,323.88
+BLR_8M_1140,Sapthagiri College Surrounding,20x30,600.0,0.81,2.59,East,60.0,BBMP,50.1
+BLR_8M_1141,8th Mile Junction,50x80,4000.0,2.5,3.35,East,30.0,DC Conversion,200.96
+BLR_8M_1142,Chikkasandra,40x60,2400.0,1.06,1.75,West,30.0,DC Conversion,115.3
+BLR_8M_1143,Sapthagiri College Surrounding,30x40,1200.0,2.75,0.69,South,20.0,DC Conversion,48.26
+BLR_8M_1144,8th Mile Junction,30x40,1200.0,0.62,2.15,South,30.0,DC Conversion,49.56
+BLR_8M_1145,Bagalakunte,40x60,2400.0,1.86,0.39,North,30.0,BBMP,155.24
+BLR_8M_1146,Bagalakunte,30x40,1200.0,0.45,1.9,East,60.0,BBMP,89.31
+BLR_8M_1147,T Dasarahalli,30x40,1200.0,1.3,2.4,East,40.0,DC Conversion,61.94
+BLR_8M_1148,Bagalakunte,30x40,1200.0,0.85,3.34,North,30.0,BMRDA,71.04
+BLR_8M_1149,Bagalakunte,20x30,600.0,1.27,3.04,North,40.0,BMRDA,37.48
+BLR_8M_1150,Chikkasandra,20x30,600.0,0.75,4.38,East,60.0,BBMP,46.56
+BLR_8M_1151,8th Mile Junction,50x80,4000.0,1.75,2.5,West,20.0,BBMP,238.02
+BLR_8M_1152,8th Mile Junction,30x40,1200.0,0.16,2.89,East,40.0,BBMP,94.44
+BLR_8M_1153,T Dasarahalli,40x60,2400.0,1.19,2.4,East,40.0,BBMP,172.48
+BLR_8M_1154,8th Mile Junction,40x60,2400.0,4.46,3.66,West,30.0,BBMP,152.74
+BLR_8M_1155,T Dasarahalli,20x30,600.0,3.4,1.47,East,40.0,BBMP,41.36
+BLR_8M_1156,Sapthagiri College Surrounding,30x40,,4.1,0.99,North,30.0,DC Conversion,55.29
+BLR_8M_1157,T Dasarahalli,40x60,2400.0,2.29,3.51,South,30.0,DC Conversion,99.59
+BLR_8M_1158,8th Mile Junction,40x60,2400.0,0.87,0.21,North,30.0,DC Conversion,109.09
+BLR_8M_1159,T Dasarahalli,20x30,600.0,3.0,0.66,West,40.0,BBMP,43.54
+BLR_8M_1160,8th Mile Junction,20x30,600.0,1.51,4.1,North,40.0,BDA,49.67
+BLR_8M_1161,Chikkasandra,20x30,600.0,1.51,2.14,North,20.0,BMRDA,31.81
+BLR_8M_1162,8th Mile Junction,20x30,600.0,3.51,1.05,East,30.0,BBMP,41.89
+BLR_8M_1163,8th Mile Junction,20x30,600.0,3.71,2.36,North,60.0,DC Conversion,33.8
+BLR_8M_1164,8th Mile Junction,30x40,1200.0,1.86,1.59,North,30.0,BMRDA,71.03
+BLR_8M_1165,Chikkasandra,40x60,,2.57,3.84,East,20.0,DC Conversion,120.71
+BLR_8M_1166,8th Mile Junction,30x40,1200.0,2.31,4.44,South,,BMRDA,66.41
+BLR_8M_1167,8th Mile Junction,20x30,600.0,2.05,0.54,North,30.0,BMRDA,33.28
+BLR_8M_1168,Chikkasandra,20x30,600.0,4.17,3.41,North,30.0,BBMP,39.92
+BLR_8M_1169,8th Mile Junction,30x40,1200.0,2.39,4.35,South,40.0,BBMP,77.74
+BLR_8M_1170,Mallasandra,20x30,,0.97,0.44,North,30.0,BBMP,44.28
+BLR_8M_1171,T Dasarahalli,20x30,600.0,0.28,1.88,North,20.0,BBMP,40.82
+BLR_8M_1172,Mallasandra,20x30,600.0,0.86,0.37,South,60.0,BDA,47.92
+BLR_8M_1173,Chikkasandra,30x40,1200.0,0.43,0.22,West,30.0,BDA,86.84
+BLR_8M_1174,Bagalakunte,30x40,,3.09,2.11,South,20.0,BBMP,72.97
+BLR_8M_1175,8th Mile Junction,30x40,1200.0,2.65,1.12,West,40.0,BDA,93.16
+BLR_8M_1176,Chikkasandra,40x60,2400.0,2.4,1.91,East,30.0,BDA,183.3
+BLR_8M_1177,Chikkasandra,30x40,1200.0,1.59,0.08,North,20.0,BMRDA,69.59
+BLR_8M_1178,T Dasarahalli,30x40,1200.0,2.51,3.6,North,40.0,DC Conversion,63.16
+BLR_8M_1179,Mallasandra,40x60,2400.0,3.47,1.28,South,30.0,BMRDA,129.66
+BLR_8M_1180,Chikkasandra,20x30,600.0,2.74,0.92,East,,BMRDA,34.2
+BLR_8M_1181,Bagalakunte,30x40,1200.0,0.43,2.33,East,30.0,DC Conversion,58.24
+BLR_8M_1182,8th Mile Junction,30x40,1200.0,1.55,2.77,North,30.0,DC Conversion,62.01
+BLR_8M_1183,8th Mile Junction,30x40,1200.0,1.91,3.16,North,20.0,BDA,81.32
+BLR_8M_1184,8th Mile Junction,20x30,600.0,0.42,3.9,West,60.0,BBMP,45.03
+BLR_8M_1185,T Dasarahalli,40x60,2400.0,3.97,1.37,West,30.0,BDA,168.74
+BLR_8M_1186,T Dasarahalli,30x40,1200.0,3.66,1.75,North,20.0,DC Conversion,55.15
+BLR_8M_1187,Chikkasandra,30x40,1200.0,3.44,3.49,West,30.0,BMRDA,63.83
+BLR_8M_1188,Chikkasandra,20x30,600.0,0.36,0.38,West,40.0,BDA,45.85
+BLR_8M_1189,Sapthagiri College Surrounding,40x60,2400.0,2.51,3.94,East,30.0,BBMP,157.96
+BLR_8M_1190,Sapthagiri College Surrounding,20x30,600.0,2.2,1.76,North,40.0,DC Conversion,33.27
+BLR_8M_1191,8th Mile Junction,20x30,600.0,1.98,1.26,North,20.0,BBMP,41.5
+BLR_8M_1192,8th Mile Junction,30x40,1200.0,2.67,2.92,West,30.0,BDA,91.28
+BLR_8M_1193,8th Mile Junction,30x40,1200.0,1.25,0.82,South,30.0,BBMP,73.26
+BLR_8M_1194,Bagalakunte,50x80,4000.0,0.49,2.54,South,30.0,BBMP,264.37
+BLR_8M_1195,8th Mile Junction,50x80,4000.0,2.7,2.35,West,60.0,BMRDA,261.11
+BLR_8M_1196,Bagalakunte,20x30,,1.08,0.26,West,30.0,BBMP,39.07
+BLR_8M_1197,Mallasandra,20x30,600.0,0.18,2.08,East,30.0,BBMP,44.05
+BLR_8M_1198,Mallasandra,50x80,4000.0,1.53,3.17,West,30.0,BMRDA,236.11
+BLR_8M_1199,8th Mile Junction,30x40,1200.0,0.2,4.23,North,30.0,BBMP,81.49
+BLR_8M_1200,8th Mile Junction,20x30,600.0,1.74,2.04,North,,BBMP,39.24
+BLR_8M_1201,Bagalakunte,20x30,600.0,3.82,1.22,East,40.0,DC Conversion,32.86
+BLR_8M_1202,8th Mile Junction,30x40,1200.0,2.82,0.17,West,30.0,BDA,88.0
+BLR_8M_1203,8th Mile Junction,20x30,600.0,0.73,0.64,East,40.0,DC Conversion,33.62
+BLR_8M_1204,Chikkasandra,40x60,2400.0,2.95,2.71,West,20.0,DC Conversion,109.9
+BLR_8M_1205,Mallasandra,30x40,1200.0,4.37,2.85,South,20.0,BMRDA,59.44
+BLR_8M_1206,Chikkasandra,20x30,600.0,0.88,0.33,North,60.0,BMRDA,37.61
+BLR_8M_1207,Chikkasandra,40x60,2400.0,3.96,1.21,South,30.0,BDA,169.61
+BLR_8M_1208,8th Mile Junction,40x60,2400.0,0.32,2.79,South,30.0,DC Conversion,105.86
+BLR_8M_1209,Mallasandra,30x40,1200.0,1.43,0.41,East,60.0,BMRDA,75.24
+BLR_8M_1210,Bagalakunte,20x30,600.0,4.23,2.67,West,20.0,DC Conversion,27.17
+BLR_8M_1211,T Dasarahalli,30x40,1200.0,1.02,3.41,North,40.0,BMRDA,72.56
+BLR_8M_1212,8th Mile Junction,30x40,1200.0,0.21,3.18,East,30.0,BDA,84.63
+BLR_8M_1213,Bagalakunte,40x60,2400.0,3.65,2.76,East,20.0,BBMP,167.76
+BLR_8M_1214,T Dasarahalli,20x30,600.0,4.1,0.81,East,60.0,BBMP,48.98
+BLR_8M_1215,T Dasarahalli,20x30,600.0,1.9,3.77,South,60.0,DC Conversion,28.79
+BLR_8M_1216,T Dasarahalli,30x40,1200.0,0.3,2.8,South,60.0,BBMP,82.72
+BLR_8M_1217,T Dasarahalli,30x40,1200.0,2.19,4.31,West,30.0,BBMP,80.45
+BLR_8M_1218,Bagalakunte,20x30,600.0,4.2,0.87,North,60.0,BMRDA,37.91
+BLR_8M_1219,T Dasarahalli,50x80,4000.0,0.31,0.98,West,30.0,BMRDA,219.92
+BLR_8M_1220,8th Mile Junction,40x60,2400.0,3.32,0.26,North,30.0,BMRDA,148.62
+BLR_8M_1221,Sapthagiri College Surrounding,30x40,1200.0,4.1,0.51,South,20.0,BBMP,69.58
+BLR_8M_1222,Mallasandra,20x30,600.0,4.17,0.44,West,30.0,BBMP,40.28
+BLR_8M_1223,T Dasarahalli,40x60,2400.0,0.67,3.68,West,30.0,BMRDA,123.79
+BLR_8M_1224,Bagalakunte,30x40,1200.0,1.45,4.36,South,30.0,BMRDA,64.09
+BLR_8M_1225,Mallasandra,40x60,2400.0,0.81,4.03,North,30.0,BMRDA,147.59
+BLR_8M_1226,8th Mile Junction,30x40,1200.0,0.55,3.93,North,30.0,BMRDA,64.21
+BLR_8M_1227,Mallasandra,30x40,1200.0,1.87,4.5,North,30.0,BBMP,77.9
+BLR_8M_1228,T Dasarahalli,20x30,600.0,1.96,0.88,East,30.0,BMRDA,31.94
+BLR_8M_1229,Mallasandra,20x30,600.0,2.19,2.61,West,40.0,BMRDA,35.89
+BLR_8M_1230,T Dasarahalli,20x30,600.0,2.69,3.18,East,30.0,BMRDA,34.25
+BLR_8M_1231,Bagalakunte,30x40,1200.0,2.97,3.95,West,60.0,BBMP,97.35
+BLR_8M_1232,Chikkasandra,50x80,4000.0,3.98,0.79,West,40.0,BDA,310.68
+BLR_8M_1233,8th Mile Junction,30x40,1200.0,2.96,3.41,West,40.0,DC Conversion,62.07
+BLR_8M_1234,Bagalakunte,20x30,600.0,3.93,0.02,East,30.0,DC Conversion,30.68
+BLR_8M_1235,8th Mile Junction,20x30,600.0,1.84,0.09,East,30.0,BBMP,42.39
+BLR_8M_1236,Chikkasandra,20x30,600.0,2.64,4.45,North,30.0,BMRDA,34.19
+BLR_8M_1237,Mallasandra,20x30,,1.07,3.68,North,20.0,BBMP,38.44
+BLR_8M_1238,8th Mile Junction,30x40,1200.0,1.28,1.82,South,20.0,BBMP,71.05
+BLR_8M_1239,T Dasarahalli,40x60,2400.0,1.99,2.17,East,60.0,BBMP,190.07
+BLR_8M_1240,Chikkasandra,30x40,1200.0,0.25,3.24,West,30.0,BBMP,78.29
+BLR_8M_1241,8th Mile Junction,20x30,600.0,1.36,4.1,West,30.0,BMRDA,35.07
+BLR_8M_1242,Bagalakunte,30x40,1200.0,2.3,4.27,North,20.0,BBMP,73.31
+BLR_8M_1243,Mallasandra,30x40,1200.0,3.02,3.83,East,30.0,DC Conversion,58.51
+BLR_8M_1244,Bagalakunte,20x30,600.0,3.97,2.21,West,30.0,BBMP,41.66
+BLR_8M_1245,Sapthagiri College Surrounding,30x40,1200.0,2.59,1.72,North,30.0,BBMP,84.68
+BLR_8M_1246,8th Mile Junction,20x30,600.0,3.06,0.72,East,20.0,BDA,42.09
+BLR_8M_1247,T Dasarahalli,40x60,2400.0,0.61,1.41,West,30.0,BDA,177.31
+BLR_8M_1248,Sapthagiri College Surrounding,40x60,2400.0,2.23,4.34,North,40.0,BBMP,165.58
+BLR_8M_1249,Bagalakunte,50x80,4000.0,0.7,2.77,North,20.0,BMRDA,231.02
+BLR_8M_1250,Sapthagiri College Surrounding,30x40,1200.0,1.86,0.59,West,40.0,BBMP,89.9
+BLR_8M_1251,Mallasandra,40x60,2400.0,0.61,0.89,North,30.0,DC Conversion,108.46
+BLR_8M_1252,8th Mile Junction,40x60,2400.0,3.67,1.18,South,30.0,BBMP,151.7
+BLR_8M_1253,Mallasandra,30x40,1200.0,3.36,4.07,North,30.0,DC Conversion,56.85
+BLR_8M_1254,Sapthagiri College Surrounding,20x30,600.0,3.15,3.58,South,30.0,BMRDA,31.46
+BLR_8M_1255,Sapthagiri College Surrounding,30x40,1200.0,3.82,2.13,North,40.0,DC Conversion,59.96
+BLR_8M_1256,Sapthagiri College Surrounding,50x80,4000.0,2.93,0.77,North,30.0,BMRDA,248.8
+BLR_8M_1257,Mallasandra,40x60,2400.0,2.17,4.2,West,30.0,BBMP,168.22
+BLR_8M_1258,Mallasandra,30x40,1200.0,1.68,4.03,East,40.0,BMRDA,78.51
+BLR_8M_1259,Sapthagiri College Surrounding,30x40,1200.0,0.92,0.51,East,30.0,BBMP,84.71
+BLR_8M_1260,Bagalakunte,20x30,600.0,1.44,1.09,East,30.0,BBMP,38.39
+BLR_8M_1261,Mallasandra,20x30,600.0,3.21,3.1,East,30.0,DC Conversion,31.14
+BLR_8M_1262,Chikkasandra,20x30,600.0,0.35,2.73,West,40.0,BBMP,45.34
+BLR_8M_1263,Mallasandra,40x60,2400.0,0.75,1.6,East,20.0,BBMP,169.1
+BLR_8M_1264,T Dasarahalli,30x40,1200.0,3.56,2.48,South,,BDA,71.98
+BLR_8M_1265,Chikkasandra,30x40,1200.0,4.13,2.82,West,30.0,BBMP,82.73
+BLR_8M_1266,8th Mile Junction,30x40,1200.0,0.71,1.89,South,20.0,BMRDA,61.66
+BLR_8M_1267,T Dasarahalli,20x30,600.0,2.42,3.07,North,30.0,BMRDA,37.39
+BLR_8M_1268,T Dasarahalli,30x40,1200.0,4.25,2.91,South,30.0,DC Conversion,57.25
+BLR_8M_1269,Chikkasandra,20x30,600.0,4.07,0.07,East,40.0,BDA,46.85
+BLR_8M_1270,Sapthagiri College Surrounding,20x30,600.0,1.01,1.35,East,30.0,BBMP,41.11
+BLR_8M_1271,T Dasarahalli,40x60,2400.0,3.97,0.08,North,30.0,DC Conversion,116.05
+BLR_8M_1272,T Dasarahalli,30x40,1200.0,2.26,3.78,West,20.0,DC Conversion,53.13
+BLR_8M_1273,8th Mile Junction,50x80,,2.44,4.04,North,20.0,BBMP,267.35
+BLR_8M_1274,8th Mile Junction,40x60,2400.0,2.35,1.75,West,60.0,DC Conversion,133.82
+BLR_8M_1275,Sapthagiri College Surrounding,20x30,600.0,0.84,4.49,East,20.0,DC Conversion,27.02
+BLR_8M_1276,Mallasandra,40x60,2400.0,1.02,3.84,North,20.0,DC Conversion,115.27
+BLR_8M_1277,Bagalakunte,30x40,1200.0,3.92,1.39,North,30.0,BMRDA,74.78
+BLR_8M_1278,Chikkasandra,30x40,1200.0,0.91,1.88,North,20.0,BBMP,80.11
+BLR_8M_1279,8th Mile Junction,50x80,4000.0,4.41,4.22,North,30.0,BBMP,277.24
+BLR_8M_1280,Bagalakunte,30x40,1200.0,1.79,4.13,South,30.0,BBMP,81.05
+BLR_8M_1281,Sapthagiri College Surrounding,20x30,600.0,2.59,1.58,North,30.0,BMRDA,33.89
+BLR_8M_1282,Chikkasandra,40x60,2400.0,4.24,0.85,West,40.0,DC Conversion,129.33
+BLR_8M_1283,8th Mile Junction,20x30,,3.14,3.67,South,30.0,BDA,39.92
+BLR_8M_1284,Mallasandra,30x40,1200.0,3.81,0.14,East,20.0,DC Conversion,53.99
+BLR_8M_1285,Bagalakunte,40x60,2400.0,0.49,2.04,South,60.0,BMRDA,137.65
+BLR_8M_1286,T Dasarahalli,40x60,2400.0,4.31,0.3,East,40.0,BMRDA,149.0
+BLR_8M_1287,Bagalakunte,20x30,600.0,4.27,0.13,West,30.0,DC Conversion,27.91
+BLR_8M_1288,8th Mile Junction,50x80,4000.0,1.75,3.5,East,30.0,BDA,322.87
+BLR_8M_1289,Sapthagiri College Surrounding,30x40,1200.0,2.77,2.49,West,60.0,BDA,105.16
+BLR_8M_1290,8th Mile Junction,30x40,1200.0,2.87,2.15,East,20.0,BBMP,84.2
+BLR_8M_1291,T Dasarahalli,40x60,2400.0,4.47,3.43,East,,BBMP,196.17
+BLR_8M_1292,8th Mile Junction,30x40,1200.0,1.78,1.03,East,30.0,BBMP,87.11
+BLR_8M_1293,8th Mile Junction,20x30,600.0,2.93,3.32,East,40.0,BBMP,45.23
+BLR_8M_1294,T Dasarahalli,20x30,600.0,4.41,1.03,East,,BBMP,43.26
+BLR_8M_1295,Bagalakunte,20x30,600.0,3.09,3.93,East,,BBMP,39.09
+BLR_8M_1296,Bagalakunte,30x40,1200.0,0.82,2.43,North,20.0,BBMP,76.79
+BLR_8M_1297,Bagalakunte,40x60,2400.0,3.86,0.37,East,60.0,BDA,202.25
+BLR_8M_1298,T Dasarahalli,40x60,2400.0,0.06,0.85,East,60.0,BBMP,195.78
+BLR_8M_1299,8th Mile Junction,30x40,1200.0,3.33,0.99,East,20.0,BDA,81.99
